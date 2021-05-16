@@ -12,9 +12,9 @@ Automatically clicks if vaccine slot is available. Doesn't automate the human re
 
 **Tips/instructions to run** 👇
 
-1) Click extension on right and pin the extension for ease of use![1](./images/4.png)
-2) You need to enter these details (state, district) and then click on the Charmander on the right to auto search![1](./images/5.png)
-3) If it logs out then you need to login manually and refresh the page or click on URL and enter if it’s not auto searching
-4) Also, you can register a person on multiple numbers and try scheduling for the same person on different laptops. So, you can keep this extension on one laptop and manual searching on another.
+1) Click extension on right and pin the extension for ease of use   
+![1](./images/4.png)
+3) You need to enter these details (state, district) and then click on the Charmander on the right to auto search![1](./images/5.png)
+4) If it logs out then you need to login manually and refresh the page or click on URL and enter if it’s not auto searching
 
 Happy vaccine booking🤣
