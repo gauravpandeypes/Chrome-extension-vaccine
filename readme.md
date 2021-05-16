@@ -2,6 +2,8 @@ What the extension does and doesn't:
 
 Automatically clicks if vaccine slot is available for the next day. Doesn't automate the human related steps like entering OTP, captcha.
 
+By default works for 18+ age but can be modified to 45+ by changing the age variable in code/content.js to var age='45'
+
 **Instructions to install** 👇
 
 1) Download zip and extract![1](./images/6.PNG)
