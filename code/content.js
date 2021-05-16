@@ -3,7 +3,7 @@ console.log("hi");
 chrome.runtime.onMessage.addListener(gotMessage);
 
 function gotMessage(data, sender, sendResponse) {
-    
+    var age='18';
     var districtElement = document.getElementsByTagName('ion-col')[11].children[0]['outerText']
     districtElement.textContent="Surat Corporation";
     var x=document.getElementsByClassName("center-name-title");
@@ -32,7 +32,7 @@ function gotMessage(data, sender, sendResponse) {
             for(i=17 ; i<countCol ; i+=2) {
                 try {
                     
-                    if(((y[i+1].getElementsByTagName("li")[1].getElementsByTagName("span")[0].innerHTML.slice(4,6))=='18') && !isNaN(y[i+1].getElementsByTagName("li")[1].getElementsByTagName("a")[0]['outerText'])) {
+                    if(((y[i+1].getElementsByTagName("li")[1].getElementsByTagName("span")[0].innerHTML.slice(4,6))==age) && !isNaN(y[i+1].getElementsByTagName("li")[1].getElementsByTagName("a")[0]['outerText'])) {
                         clearInterval(myVar);
                         console.log("clicked yayyyyyyyyyyyyyyyyyyyyyyyyyy");
                         document.getElementsByTagName("ion-col")[i+1].children[0].getElementsByTagName('li')[1].getElementsByTagName('a')[0].click();
