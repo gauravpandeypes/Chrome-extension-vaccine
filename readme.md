@@ -4,7 +4,7 @@ Automatically clicks if vaccine slot is available. Doesn't automate the human re
 
 **Instructions to install** 👇
 
-1) Download zip and extract![1](./images/6.png)
+1) Download zip and extract![1](./images/6.PNG)
 2) Open chrome and type chrome://extensions in URL![1](./images/1.png)
 3) Tick Developer mode on the right![1](./images/2.png)
 4) Click Load unpacked and select the folder which has the extracted files (keep them in a folder) ![1](./images/3.png)
