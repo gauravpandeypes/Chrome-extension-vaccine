@@ -1,6 +1,6 @@
 What the extension does and doesn't:
 
-Automatically clicks if vaccine slot is available. Doesn't automate the human related steps like entering OTP, captcha.
+Automatically clicks if vaccine slot is available for the next day. Doesn't automate the human related steps like entering OTP, captcha.
 
 **Instructions to install** 👇
 
